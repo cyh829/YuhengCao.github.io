@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year PhD student from [School of ISEE](http://www.isee.zju.edu.cn/main.htm),[Zhejiang University](https://www.zju.edu.cn).My research interest includes Radar for vital-sign monitoring, THz wireless communication, optical communication.
+I'm a first year PhD student from [College of ISEE](http://www.isee.zju.edu.cn/main.htm),[Zhejiang University](https://www.zju.edu.cn).My research interest includes Radar for vital-sign monitoring, THz wireless communication, optical communication.
 
 A data-driven personal website
 ======
