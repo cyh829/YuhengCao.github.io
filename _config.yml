@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuheng Cao"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Life is not just about research, but 'research'."
-  location         : "Hangzhou, China"
-  employer         : #"Zhejiang University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "12110127@mail.sustech.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
