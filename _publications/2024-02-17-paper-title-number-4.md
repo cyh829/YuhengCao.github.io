@@ -6,7 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/10713484
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-05
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://YuhengCao.github.io/files/conference1.pdf'
 citation: 'Y. Cao et al., "Uncorrelated Phase Noise Cancellation for Low-IF Radar With Separate Reference Sources of Dual PLLs," 2024 IEEE MTT-S International Wireless Symposium (IWS), Beijing, China, 2024, pp. 1-3, doi: 10.1109/IWS61525.2024.10713484.'
 ---
 
