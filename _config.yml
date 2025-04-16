@@ -22,7 +22,7 @@ repository               : "cyh829/YuhengCao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Yuheng Cao"
   pronouns         : # example: "she/her"  
   bio              : "Life is not just about 'research'."
